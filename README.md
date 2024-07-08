@@ -1,7 +1,3 @@
-Certainly! Below is a template for a README file that you can use to guide users on how to use your Node.js application:
-
----
-
 # Hostel Allocation System
 
 Welcome to the Hostel Allocation System! This system helps allocate hostel rooms based on group information and hostel capacities.
