@@ -2,6 +2,8 @@
 
 Welcome to the Hostel Allocation System! This system helps allocate hostel rooms based on group information and hostel capacities.
 
+https://github.com/hanish-rishen/hostel-allocation/assets/110720727/8191a728-d5d2-457a-b16a-a06c3a2f1163
+
 ## Features
 
 - **Upload CSV Files:** Upload group information and hostel information CSV files.
