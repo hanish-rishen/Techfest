@@ -56,6 +56,17 @@ To get started with the Hostel Allocation System, follow these steps:
    - Once the allocation process completes, the results will be displayed in a table format on the same page.
    - The table includes columns for Group ID, Hostel Name, Room Number, and Members Allocated.
 
+4. **Downloading Results as CSV:**
+
+   To download the allocation results as a CSV file, follow these steps:
+   - After the results are displayed on the webpage, a "Download CSV" button will appear below the table.
+   - Click the "Download CSV" button to download the allocation results.
+   - The downloaded CSV file will include the same columns as displayed in the table (Group ID, Hostel Name, Room Number, and Members Allocated).
+
+  
+
+
+
 ### Example CSV Formats
 
 - **Group Information CSV:**
